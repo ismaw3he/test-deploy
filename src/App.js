@@ -6,6 +6,7 @@ import About from './components/About/About'
 function App() {
     return (
        <div>
+           <h1>HAHAHHAHAHAHHAHA</h1>
        <About/>
       
        </div>
